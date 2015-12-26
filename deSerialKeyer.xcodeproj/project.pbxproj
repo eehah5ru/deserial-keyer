@@ -62,6 +62,7 @@
 		3879BD781A0E7820009FD38D /* ofxUIWidget.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3879BD121A0E7820009FD38D /* ofxUIWidget.cpp */; };
 		3879BD791A0E7820009FD38D /* ofxUIWidgetWithLabel.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3879BD151A0E7820009FD38D /* ofxUIWidgetWithLabel.cpp */; };
 		38A03D7F1A10E82D00B4FF2B /* ofxChromaKey.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D794EA70D841E00474042E95 /* ofxChromaKey.cpp */; };
+		38A03D821A11252700B4FF2B /* ofxGreenscreen.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 19E034F54EBF73E0F1E8AA53 /* ofxGreenscreen.cpp */; };
 		38BF6C011A0CD8BB0054571E /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 38BF6C001A0CD8BB0054571E /* QuartzCore.framework */; };
 		38BF6C031A0CD8CF0054571E /* CoreMedia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 38BF6C021A0CD8CF0054571E /* CoreMedia.framework */; };
 		38BF6C051A0CD8DD0054571E /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 38BF6C041A0CD8DD0054571E /* AVFoundation.framework */; };
@@ -1034,6 +1035,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3879BD701A0E7820009FD38D /* ofxUISuperCanvas.cpp in Sources */,
+				38A03D821A11252700B4FF2B /* ofxGreenscreen.cpp in Sources */,
 				3879BD5D1A0E7820009FD38D /* ofxUIImageSlider.cpp in Sources */,
 				3879BD521A0E7820009FD38D /* ofxUICircleSlider.cpp in Sources */,
 				3879BD4F1A0E7820009FD38D /* ofxUIBiLabelSlider.cpp in Sources */,
