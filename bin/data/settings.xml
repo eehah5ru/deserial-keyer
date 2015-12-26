@@ -1,0 +1,77 @@
+<Canvas>
+    <Kind>40</Kind>
+    <Name>OFX_UI_WIDGET_CANVAS</Name>
+    <IsMinified>0</IsMinified>
+    <XPosition>400.000000000</XPosition>
+    <YPosition>0.000000000</YPosition>
+</Canvas>
+<Widget>
+    <Kind>2</Kind>
+    <Name>detail mask</Name>
+    <Value>1</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>base mask</Name>
+    <Value>1</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>chroma mask</Name>
+    <Value>1</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>greenspill</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>base mask strength</Name>
+    <Value>0.429999888</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>chroma mask strength</Name>
+    <Value>0.895833313</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>green spill strength</Name>
+    <Value>0.030000092</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>base mask black</Name>
+    <Value>0.200000033</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>base mask white</Name>
+    <Value>0.879999757</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>detail mask black</Name>
+    <Value>0.339999974</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>detail mask white</Name>
+    <Value>0.899999738</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>end mask black</Name>
+    <Value>0.210000038</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>end mask white</Name>
+    <Value>0.360000253</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>Enable bkg color picker</Name>
+    <Value>1</Value>
+</Widget>
